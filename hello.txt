@@ -1,2 +1,4 @@
 hello first document
-  
+  this is the line after commit
+  i am a passionate software engineer\
+\
